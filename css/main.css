@@ -1,0 +1,136 @@
+.wrapper{
+	margin: auto;
+	width: 500px;
+}
+
+body{
+	font-family: Arvo;
+	text-align: justify;
+	text-transform: uppercase;
+}
+
+span{
+	margin: 0px;
+	padding: 0px;
+}
+
+.xsmall{
+	font-size: 13px;
+}
+
+.xs-two{
+	font-size: 16px;
+}
+
+.small{
+	font-size: 17px;
+}
+
+.small-three{
+	font-size: 19px;
+}
+
+.small-medium{
+	font-size: 21px;
+}
+
+.sm-two{
+	font-size: 24px;
+}
+
+.medium{
+	font-size: 26px;
+}
+
+.medium-one{
+	font-size: 29px;
+}
+
+.medium-large{
+	font-size: 33px;
+}
+
+.large{
+	font-size: 42px;
+}
+
+.xlarge{
+	font-size: 54px;
+}
+
+#section-one{
+	margin-bottom: 2px;
+}
+
+#this-is{
+	font-size: 34px;
+}
+
+#do-what{
+	font-size: 21px;
+}
+
+#often{
+	font-size: 25px;
+}
+
+#life{
+	font-size: 105px;
+	float: right;
+	line-height: .9;
+	margin-left: 5px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+#section-two{
+	margin-top: 5px;
+	margin-bottom: 1px;
+}
+
+#section-three{
+	float: left;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	margin-top: 1px;
+}
+
+#section-four{
+	margin-bottom: 0px;
+	margin-top: 1px;
+}
+
+#section-five{
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#section-six{
+	float: left;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	margin-top: 0px;
+}
+
+#section-seven{
+	height: 100px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#section-eight{
+		float: left;
+		margin-bottom: 0px;
+		margin-top: 0px;
+}
+
+#section-nine{
+	float: left;
+	margin-right: 10px;
+	margin-top: 0px;
+}
+
+#section-ten{
+	margin-top: 50px;
+}
